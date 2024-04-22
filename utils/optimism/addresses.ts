@@ -2,12 +2,12 @@ import { NetworkName } from "../network";
 import { OptContractAddresses, CommonOptions } from "./types";
 
 const OptimismMainnetAddresses: OptContractAddresses = {
-  L1CrossDomainMessenger: "0x25ace71c97B33Cc4729CF772ae268934F7ab5fA1",
+  L1CrossDomainMessenger: "0xE3d981643b806FB8030CDB677D6E60892E547EdA",
   L2CrossDomainMessenger: "0x4200000000000000000000000000000000000007"
 };
 
 const OptimismSepoliaAddresses: OptContractAddresses = {
-  L1CrossDomainMessenger: "0x58Cc85b8D04EA49cC6DBd3CbFFd00B4B8D6cb3ef",
+  L1CrossDomainMessenger: "0xcd5989E230D97FFE8C3C5217DEdCaC64Fa5fCeb3",
   L2CrossDomainMessenger: "0x4200000000000000000000000000000000000007",
 };
 
